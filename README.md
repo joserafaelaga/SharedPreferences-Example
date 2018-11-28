@@ -1,2 +1,2 @@
 # SharedPreferences-Example
-Ejemplo de SharedPreferences (Android Studio)
+Ejemplo de SharedPreferences (Android)
